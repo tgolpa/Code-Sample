@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rough Draft #1: Code Sample</title>
+</head>
+<body>
+  <h1>HTML & CSS</h1>
+  <p>HTML, HyperText Markup Language, gives content structure and meaning by defining that content as, for example, headings, paragraphs, or images. CSS, or Cascading Style Sheets, is a presentation language created to style the appearance of contentusing, for example, fonts or colors.</p>
+  <a href="https://en.wikipedia.org/wiki/HTML">Learn More</a>
+  <p>The following are hopes I have for coding:</p>
+  <ul>
+    <li>iOS</li>
+    <li>Web Frontend</li>
+    <li>Backend</li>
+    <p>The following represent what I hope to master:</p>
+    <ol>
+  <li>Mobile App Design</li>
+  <li>Web Design</li>
+  <li>Programming</li>
+</ol>
+  </ul>
+</body> 
+</html>
